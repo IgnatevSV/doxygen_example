@@ -21,4 +21,6 @@ var menudata={children:[
 {text:"u",url:"functions.html#index_u"}]},
 {text:"Functions",url:"functions_func.html"},
 {text:"Properties",url:"functions_prop.html"},
-{text:"Events",url:"functions_evnt.html"}]}]}]}
+{text:"Events",url:"functions_evnt.html"}]}]},
+{text:"Files",url:"files.html",children:[
+{text:"File List",url:"files.html"}]}]}

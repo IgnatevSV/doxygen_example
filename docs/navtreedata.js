@@ -1,11 +1,11 @@
 var NAVTREE =
 [
   [ "Doxygen research-training project", "index.html", [
-    [ "Answer Prefab", "md__source_for_doxygen_dialogues_system_description_answer_prefab.html", null ],
-    [ "Dialogue System", "md__source_for_doxygen_dialogues_system_description_dialogue_system.html", null ],
-    [ "Dialogue Window Prefab", "md__source_for_doxygen_dialogues_system_description_dialogue_window_prefab.html", null ],
-    [ "Scenes", "md__source_for_doxygen_dialogues_system_description_scenes.html", null ],
-    [ "XML Dialogues Database", "md__source_for_doxygen_dialogues_system_description_xml_dialogues_db.html", null ],
+    [ "Answer Prefab", "answer_prefab.html", null ],
+    [ "Dialogue System", "dialogue_system.html", null ],
+    [ "Dialogue Window Prefab", "dialogue_window_prefab.html", null ],
+    [ "Scenes", "scenes.html", null ],
+    [ "XML Dialogues Database", "xml_dialogues_database.html", null ],
     [ "Packages", null, [
       [ "Packages", "namespaces.html", "namespaces" ]
     ] ],

@@ -10,5 +10,7 @@ var searchData=
   ['dialoguesettings',['DialogueSettings',['../class_dialogue_system_scripts_1_1_models_1_1_dialogue_settings.html',1,'DialogueSystemScripts.Models.DialogueSettings'],['../class_dialogue_system_scripts_1_1_models_1_1_dialogue_settings.html#a872e2c7dbf185b651259faf8060eb3df',1,'DialogueSystemScripts.Models.DialogueSettings.DialogueSettings(int id, string text, bool hasExit, Dialogue dialogueLocalPrefab, List&lt; AnswerSettings &gt; playerAnswers)'],['../class_dialogue_system_scripts_1_1_models_1_1_dialogue_settings.html#a7b230938404ad717660cf03ec840e09b',1,'DialogueSystemScripts.Models.DialogueSettings.DialogueSettings(int id, string text)']]],
   ['dialoguesystem',['DialogueSystem',['../class_dialogue_system_scripts_1_1_dialogue_system.html',1,'DialogueSystemScripts']]],
   ['dialoguesystemscripts',['DialogueSystemScripts',['../namespace_dialogue_system_scripts.html',1,'']]],
+  ['dialogue_20system',['Dialogue System',['../md__source_for_doxygen_dialogues_system_description_dialogue_system.html',1,'']]],
+  ['dialogue_20window_20prefab',['Dialogue Window Prefab',['../md__source_for_doxygen_dialogues_system_description_dialogue_window_prefab.html',1,'']]],
   ['models',['Models',['../namespace_dialogue_system_scripts_1_1_models.html',1,'DialogueSystemScripts']]]
 ];

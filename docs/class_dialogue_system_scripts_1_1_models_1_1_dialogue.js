@@ -1,9 +1,25 @@
 var class_dialogue_system_scripts_1_1_models_1_1_dialogue =
 [
+    [ "CloseDialogue", "class_dialogue_system_scripts_1_1_models_1_1_dialogue.html#a85742d982dfa577756e69b53b6df1c8f", null ],
     [ "DialogueDelegate", "class_dialogue_system_scripts_1_1_models_1_1_dialogue.html#abcc1eb48232585cd7280251b3cadcd55", null ],
+    [ "InitCancelButton", "class_dialogue_system_scripts_1_1_models_1_1_dialogue.html#adab571c5c277404b9ee16b6beeb504c5", null ],
+    [ "InitCanvasGroup", "class_dialogue_system_scripts_1_1_models_1_1_dialogue.html#abab4b5ff28eec8c607aea8c9a9b200c9", null ],
+    [ "InitDefaultTransformValues", "class_dialogue_system_scripts_1_1_models_1_1_dialogue.html#ac573ba6387ce1309b4ae0ffd4e77fd37", null ],
     [ "InitDialogue", "class_dialogue_system_scripts_1_1_models_1_1_dialogue.html#a8b8077d9c68e517448541ddda832252f", null ],
+    [ "InitText", "class_dialogue_system_scripts_1_1_models_1_1_dialogue.html#a7657bdd27f4decc02fd33c4b0d0cdb55", null ],
     [ "ResetTransformValues", "class_dialogue_system_scripts_1_1_models_1_1_dialogue.html#acb502d24ca9a486d465154e522cadeed", null ],
+    [ "Start", "class_dialogue_system_scripts_1_1_models_1_1_dialogue.html#a9f6880f14f64f83f6b48a4b87a9048bd", null ],
+    [ "_answersGroup", "class_dialogue_system_scripts_1_1_models_1_1_dialogue.html#a72e07a621bf1e8377600d8db2d925442", null ],
+    [ "_canvasGroup", "class_dialogue_system_scripts_1_1_models_1_1_dialogue.html#ac2fde7bca14e8c468846ea62f315934b", null ],
+    [ "_closeWindowButton", "class_dialogue_system_scripts_1_1_models_1_1_dialogue.html#a97909dad17499fdc33f7bce35aaa0427", null ],
+    [ "_defaultPosition", "class_dialogue_system_scripts_1_1_models_1_1_dialogue.html#afa392974934a72ca275ff3e056a4f42f", null ],
+    [ "_defaultRotation", "class_dialogue_system_scripts_1_1_models_1_1_dialogue.html#ac37f4a91d8491f28e1a61a650f0b6717", null ],
+    [ "_dialogueText", "class_dialogue_system_scripts_1_1_models_1_1_dialogue.html#a6659d39c66b7ae2d3d3ac3d9be0a09e8", null ],
+    [ "_fader", "class_dialogue_system_scripts_1_1_models_1_1_dialogue.html#a4bcb146dddecf571a62a578817cc9562", null ],
+    [ "_mainWindow", "class_dialogue_system_scripts_1_1_models_1_1_dialogue.html#a4b926cdfe56a31a8e032d92e55f52541", null ],
+    [ "answers", "class_dialogue_system_scripts_1_1_models_1_1_dialogue.html#ada94ac81204d59d8e06e8ae3c7778f17", null ],
     [ "AnswersGroup", "class_dialogue_system_scripts_1_1_models_1_1_dialogue.html#a61182a4fb6f0e2cf26bd2164784d8779", null ],
     [ "IsDialogueActive", "class_dialogue_system_scripts_1_1_models_1_1_dialogue.html#a10c4256bc6f9365e43650bd3093795ef", null ],
-    [ "MainWindow", "class_dialogue_system_scripts_1_1_models_1_1_dialogue.html#acb31f57f9597cc973a90c303dc761e75", null ]
+    [ "MainWindow", "class_dialogue_system_scripts_1_1_models_1_1_dialogue.html#acb31f57f9597cc973a90c303dc761e75", null ],
+    [ "OnDialogueClose", "class_dialogue_system_scripts_1_1_models_1_1_dialogue.html#a3b267ef1fadcf91532d28c5fb56a32ce", null ]
 ];

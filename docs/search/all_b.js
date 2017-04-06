@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['unlockanswer',['UnlockAnswer',['../class_other_1_1_using_examples_1_1_unlock_answer_example.html#afa793050d5c11c0aaaa3e3f6ae089694',1,'Other::UsingExamples::UnlockAnswerExample']]],
-  ['unlockanswerexample',['UnlockAnswerExample',['../class_other_1_1_using_examples_1_1_unlock_answer_example.html',1,'Other::UsingExamples']]]
+  ['mainwindow',['MainWindow',['../class_dialogue_system_scripts_1_1_models_1_1_dialogue.html#acb31f57f9597cc973a90c303dc761e75',1,'DialogueSystemScripts::Models::Dialogue']]],
+  ['movedialoguebyactivity',['MoveDialogueByActivity',['../class_dialogue_system_scripts_1_1_dialogue_system.html#a022332c52d6c9bceeafe535c8c603610',1,'DialogueSystemScripts::DialogueSystem']]]
 ];

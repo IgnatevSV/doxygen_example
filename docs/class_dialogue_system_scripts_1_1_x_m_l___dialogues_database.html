@@ -83,6 +83,8 @@ $(document).ready(function(){initNavTree('class_dialogue_system_scripts_1_1_x_m_
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="class_dialogue_system_scripts_1_1_x_m_l___dialogues_database-members.html">List of all members</a>  </div>
   <div class="headertitle">
 <div class="title">DialogueSystemScripts.XML_DialoguesDatabase Class Reference</div>  </div>
@@ -106,12 +108,57 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a42b3fe66523982862ebc58eb7a101295"><td class="memItemLeft" align="right" valign="top">override <a class="el" href="class_dialogue_system_scripts_1_1_models_1_1_dialogue_settings.html">DialogueSettings</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_dialogue_system_scripts_1_1_x_m_l___dialogues_database.html#a42b3fe66523982862ebc58eb7a101295">GetDialogueSettings</a> (int dialogueID)</td></tr>
 <tr class="memdesc:a42b3fe66523982862ebc58eb7a101295"><td class="mdescLeft">&#160;</td><td class="mdescRight">Метод для получения настроек диалога.  <a href="#a42b3fe66523982862ebc58eb7a101295">More...</a><br /></td></tr>
 <tr class="separator:a42b3fe66523982862ebc58eb7a101295"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a5e6cd9bf862e92107c3194716c4ca344"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_dialogue_system_scripts_1_1_x_m_l___dialogues_database.html#a5e6cd9bf862e92107c3194716c4ca344">Awake</a> ()</td></tr>
+<tr class="separator:a5e6cd9bf862e92107c3194716c4ca344"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a11ab518a055871131f5320e26641d855"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_dialogue_system_scripts_1_1_x_m_l___dialogues_database.html#a11ab518a055871131f5320e26641d855">Init</a> ()</td></tr>
+<tr class="separator:a11ab518a055871131f5320e26641d855"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9785e0297fc087fcb539fc7a714ab1d2"><td class="memItemLeft" align="right" valign="top">List&lt; <a class="el" href="class_dialogue_system_scripts_1_1_models_1_1_dialogue_settings.html">DialogueSettings</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_dialogue_system_scripts_1_1_x_m_l___dialogues_database.html#a9785e0297fc087fcb539fc7a714ab1d2">TranslateItems</a> (List&lt; <a class="el" href="class_dialogue_system_scripts_1_1_models_1_1_x_m_l___dialogue_settings.html">XML_DialogueSettings</a> &gt; dialoguesSettings)</td></tr>
+<tr class="separator:a9785e0297fc087fcb539fc7a714ab1d2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac9f1e739484c671923ff5144bad8f1da"><td class="memItemLeft" align="right" valign="top">List&lt; <a class="el" href="class_dialogue_system_scripts_1_1_models_1_1_answer_settings.html">AnswerSettings</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_dialogue_system_scripts_1_1_x_m_l___dialogues_database.html#ac9f1e739484c671923ff5144bad8f1da">TranslateAnswers</a> (List&lt; <a class="el" href="class_dialogue_system_scripts_1_1_models_1_1_x_m_l___answer_settings.html">XML_AnswerSettings</a> &gt; answersSettings)</td></tr>
+<tr class="separator:ac9f1e739484c671923ff5144bad8f1da"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:ae3a37695685608310ffd588f8f3020fc"><td class="memItemLeft" align="right" valign="top">TextAsset&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_dialogue_system_scripts_1_1_x_m_l___dialogues_database.html#ae3a37695685608310ffd588f8f3020fc">_xmlFile</a></td></tr>
+<tr class="separator:ae3a37695685608310ffd588f8f3020fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6815e4ae44dd62aed5c07a16f4da9528"><td class="memItemLeft" align="right" valign="top">List&lt; <a class="el" href="class_dialogue_system_scripts_1_1_models_1_1_dialogue_settings.html">DialogueSettings</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_dialogue_system_scripts_1_1_x_m_l___dialogues_database.html#a6815e4ae44dd62aed5c07a16f4da9528">_dialoguesSettings</a> = new List&lt;<a class="el" href="class_dialogue_system_scripts_1_1_models_1_1_dialogue_settings.html">DialogueSettings</a>&gt;()</td></tr>
+<tr class="separator:a6815e4ae44dd62aed5c07a16f4da9528"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Класс для работы с базой данных диалогов на XML. </p>
 
 <p class="definition">Definition at line <a class="el" href="_x_m_l___dialogues_database_8cs_source.html#l00012">12</a> of file <a class="el" href="_x_m_l___dialogues_database_8cs_source.html">XML_DialoguesDatabase.cs</a>.</p>
 </div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a5e6cd9bf862e92107c3194716c4ca344"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5e6cd9bf862e92107c3194716c4ca344">&#9670;&nbsp;</a></span>Awake()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void DialogueSystemScripts.XML_DialoguesDatabase.Awake </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="_x_m_l___dialogues_database_8cs_source.html#l00039">39</a> of file <a class="el" href="_x_m_l___dialogues_database_8cs_source.html">XML_DialoguesDatabase.cs</a>.</p>
+
+</div>
+</div>
 <a id="a42b3fe66523982862ebc58eb7a101295"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a42b3fe66523982862ebc58eb7a101295">&#9670;&nbsp;</a></span>GetDialogueSettings()</h2>
 
@@ -148,6 +195,138 @@ Public Member Functions</h2></td></tr>
 <p>Implements <a class="el" href="class_dialogue_system_scripts_1_1_dialogues_database.html#a7e7015bb25c4e70b3b6a830f62383078">DialogueSystemScripts.DialoguesDatabase</a>.</p>
 
 <p class="definition">Definition at line <a class="el" href="_x_m_l___dialogues_database_8cs_source.html#l00033">33</a> of file <a class="el" href="_x_m_l___dialogues_database_8cs_source.html">XML_DialoguesDatabase.cs</a>.</p>
+
+</div>
+</div>
+<a id="a11ab518a055871131f5320e26641d855"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a11ab518a055871131f5320e26641d855">&#9670;&nbsp;</a></span>Init()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void DialogueSystemScripts.XML_DialoguesDatabase.Init </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="_x_m_l___dialogues_database_8cs_source.html#l00044">44</a> of file <a class="el" href="_x_m_l___dialogues_database_8cs_source.html">XML_DialoguesDatabase.cs</a>.</p>
+
+</div>
+</div>
+<a id="ac9f1e739484c671923ff5144bad8f1da"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac9f1e739484c671923ff5144bad8f1da">&#9670;&nbsp;</a></span>TranslateAnswers()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">List&lt;<a class="el" href="class_dialogue_system_scripts_1_1_models_1_1_answer_settings.html">AnswerSettings</a>&gt; DialogueSystemScripts.XML_DialoguesDatabase.TranslateAnswers </td>
+          <td>(</td>
+          <td class="paramtype">List&lt; <a class="el" href="class_dialogue_system_scripts_1_1_models_1_1_x_m_l___answer_settings.html">XML_AnswerSettings</a> &gt;&#160;</td>
+          <td class="paramname"><em>answersSettings</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="_x_m_l___dialogues_database_8cs_source.html#l00076">76</a> of file <a class="el" href="_x_m_l___dialogues_database_8cs_source.html">XML_DialoguesDatabase.cs</a>.</p>
+
+</div>
+</div>
+<a id="a9785e0297fc087fcb539fc7a714ab1d2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9785e0297fc087fcb539fc7a714ab1d2">&#9670;&nbsp;</a></span>TranslateItems()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">List&lt;<a class="el" href="class_dialogue_system_scripts_1_1_models_1_1_dialogue_settings.html">DialogueSettings</a>&gt; DialogueSystemScripts.XML_DialoguesDatabase.TranslateItems </td>
+          <td>(</td>
+          <td class="paramtype">List&lt; <a class="el" href="class_dialogue_system_scripts_1_1_models_1_1_x_m_l___dialogue_settings.html">XML_DialogueSettings</a> &gt;&#160;</td>
+          <td class="paramname"><em>dialoguesSettings</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="_x_m_l___dialogues_database_8cs_source.html#l00059">59</a> of file <a class="el" href="_x_m_l___dialogues_database_8cs_source.html">XML_DialoguesDatabase.cs</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a6815e4ae44dd62aed5c07a16f4da9528"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6815e4ae44dd62aed5c07a16f4da9528">&#9670;&nbsp;</a></span>_dialoguesSettings</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">List&lt;<a class="el" href="class_dialogue_system_scripts_1_1_models_1_1_dialogue_settings.html">DialogueSettings</a>&gt; DialogueSystemScripts.XML_DialoguesDatabase._dialoguesSettings = new List&lt;<a class="el" href="class_dialogue_system_scripts_1_1_models_1_1_dialogue_settings.html">DialogueSettings</a>&gt;()</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="_x_m_l___dialogues_database_8cs_source.html#l00017">17</a> of file <a class="el" href="_x_m_l___dialogues_database_8cs_source.html">XML_DialoguesDatabase.cs</a>.</p>
+
+</div>
+</div>
+<a id="ae3a37695685608310ffd588f8f3020fc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae3a37695685608310ffd588f8f3020fc">&#9670;&nbsp;</a></span>_xmlFile</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">TextAsset DialogueSystemScripts.XML_DialoguesDatabase._xmlFile</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="_x_m_l___dialogues_database_8cs_source.html#l00015">15</a> of file <a class="el" href="_x_m_l___dialogues_database_8cs_source.html">XML_DialoguesDatabase.cs</a>.</p>
 
 </div>
 </div>

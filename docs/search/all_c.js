@@ -1,8 +1,12 @@
 var searchData=
 [
-  ['xml_5fanswersettings',['XML_AnswerSettings',['../class_dialogue_system_scripts_1_1_models_1_1_x_m_l___answer_settings.html',1,'DialogueSystemScripts::Models']]],
-  ['xml_5fdialoguescollection',['XML_DialoguesCollection',['../class_dialogue_system_scripts_1_1_models_1_1_x_m_l___dialogues_collection.html',1,'DialogueSystemScripts::Models']]],
-  ['xml_5fdialoguesdatabase',['XML_DialoguesDatabase',['../class_dialogue_system_scripts_1_1_x_m_l___dialogues_database.html',1,'DialogueSystemScripts']]],
-  ['xml_5fdialoguesettings',['XML_DialogueSettings',['../class_dialogue_system_scripts_1_1_models_1_1_x_m_l___dialogue_settings.html',1,'DialogueSystemScripts::Models']]],
-  ['xml_20dialogues_20database',['XML Dialogues Database',['../xml_dialogues_database.html',1,'']]]
+  ['editor',['Editor',['../namespace_other_1_1_editor.html',1,'Other']]],
+  ['ondestroy',['OnDestroy',['../class_dialogue_system_scripts_1_1_dialogue_system.html#a0bca95a00bebc9ddd155f083c83d87c7',1,'DialogueSystemScripts::DialogueSystem']]],
+  ['ondialogueclose',['OnDialogueClose',['../class_dialogue_system_scripts_1_1_models_1_1_dialogue.html#a3b267ef1fadcf91532d28c5fb56a32ce',1,'DialogueSystemScripts::Models::Dialogue']]],
+  ['opendialogue',['OpenDialogue',['../class_other_1_1_using_examples_1_1_open_dialogue_example.html#aed9a37d0d5db1a3c2a823c57d6b9e057',1,'Other::UsingExamples::OpenDialogueExample']]],
+  ['opendialogueexample',['OpenDialogueExample',['../class_other_1_1_using_examples_1_1_open_dialogue_example.html',1,'Other::UsingExamples']]],
+  ['opendialogueexample_2ecs',['OpenDialogueExample.cs',['../_open_dialogue_example_8cs.html',1,'']]],
+  ['opennewdialogue',['OpenNewDialogue',['../class_dialogue_system_scripts_1_1_dialogue_system.html#a282e4535be3b54355f978860c22b7e8b',1,'DialogueSystemScripts::DialogueSystem']]],
+  ['other',['Other',['../namespace_other.html',1,'']]],
+  ['usingexamples',['UsingExamples',['../namespace_other_1_1_using_examples.html',1,'Other']]]
 ];

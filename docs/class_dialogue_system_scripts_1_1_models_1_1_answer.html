@@ -84,6 +84,8 @@ $(document).ready(function(){initNavTree('class_dialogue_system_scripts_1_1_mode
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#properties">Properties</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="class_dialogue_system_scripts_1_1_models_1_1_answer-members.html">List of all members</a>  </div>
   <div class="headertitle">
 <div class="title">DialogueSystemScripts.Models.Answer Class Reference</div>  </div>
@@ -112,6 +114,20 @@ Properties</h2></td></tr>
 <tr class="memitem:a3306365f1dbae91fce0b802cff4b94ae"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_dialogue_system_scripts_1_1_models_1_1_answer.html#a3306365f1dbae91fce0b802cff4b94ae">IsAnswerActive</a><code> [get, set]</code></td></tr>
 <tr class="memdesc:a3306365f1dbae91fce0b802cff4b94ae"><td class="mdescLeft">&#160;</td><td class="mdescRight">Активен ли ответ на данный момент.  <a href="#a3306365f1dbae91fce0b802cff4b94ae">More...</a><br /></td></tr>
 <tr class="separator:a3306365f1dbae91fce0b802cff4b94ae"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a8fa3464d41b48b5b79f5fa7a972ff821"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_dialogue_system_scripts_1_1_models_1_1_answer.html#a8fa3464d41b48b5b79f5fa7a972ff821">InitButton</a> (bool isActive, Button.ButtonClickedEvent buttonEvents)</td></tr>
+<tr class="separator:a8fa3464d41b48b5b79f5fa7a972ff821"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a078e0fcc9a27d4b64e0c6079c5a8011a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_dialogue_system_scripts_1_1_models_1_1_answer.html#a078e0fcc9a27d4b64e0c6079c5a8011a">InitAnswerText</a> (string text)</td></tr>
+<tr class="separator:a078e0fcc9a27d4b64e0c6079c5a8011a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:a271c74919f37730e5aab93af7373e1d6"><td class="memItemLeft" align="right" valign="top">Button&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_dialogue_system_scripts_1_1_models_1_1_answer.html#a271c74919f37730e5aab93af7373e1d6">_answerButton</a></td></tr>
+<tr class="separator:a271c74919f37730e5aab93af7373e1d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab1afe1820939581cbc6ea7c8893147e3"><td class="memItemLeft" align="right" valign="top">Text&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_dialogue_system_scripts_1_1_models_1_1_answer.html#ab1afe1820939581cbc6ea7c8893147e3">_answerText</a></td></tr>
+<tr class="separator:ab1afe1820939581cbc6ea7c8893147e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Класс ответа в диалоговом окне. </p>
@@ -143,6 +159,121 @@ Properties</h2></td></tr>
 </dl>
 
 <p class="definition">Definition at line <a class="el" href="_answer_8cs_source.html#l00031">31</a> of file <a class="el" href="_answer_8cs_source.html">Answer.cs</a>.</p>
+
+</div>
+</div>
+<a id="a078e0fcc9a27d4b64e0c6079c5a8011a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a078e0fcc9a27d4b64e0c6079c5a8011a">&#9670;&nbsp;</a></span>InitAnswerText()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void DialogueSystemScripts.Models.Answer.InitAnswerText </td>
+          <td>(</td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>text</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="_answer_8cs_source.html#l00047">47</a> of file <a class="el" href="_answer_8cs_source.html">Answer.cs</a>.</p>
+
+</div>
+</div>
+<a id="a8fa3464d41b48b5b79f5fa7a972ff821"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8fa3464d41b48b5b79f5fa7a972ff821">&#9670;&nbsp;</a></span>InitButton()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void DialogueSystemScripts.Models.Answer.InitButton </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>isActive</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Button.ButtonClickedEvent&#160;</td>
+          <td class="paramname"><em>buttonEvents</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="_answer_8cs_source.html#l00037">37</a> of file <a class="el" href="_answer_8cs_source.html">Answer.cs</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a271c74919f37730e5aab93af7373e1d6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a271c74919f37730e5aab93af7373e1d6">&#9670;&nbsp;</a></span>_answerButton</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">Button DialogueSystemScripts.Models.Answer._answerButton</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="_answer_8cs_source.html#l00012">12</a> of file <a class="el" href="_answer_8cs_source.html">Answer.cs</a>.</p>
+
+</div>
+</div>
+<a id="ab1afe1820939581cbc6ea7c8893147e3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab1afe1820939581cbc6ea7c8893147e3">&#9670;&nbsp;</a></span>_answerText</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">Text DialogueSystemScripts.Models.Answer._answerText</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="_answer_8cs_source.html#l00015">15</a> of file <a class="el" href="_answer_8cs_source.html">Answer.cs</a>.</p>
 
 </div>
 </div>

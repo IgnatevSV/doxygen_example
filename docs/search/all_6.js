@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['mainwindow',['MainWindow',['../class_dialogue_system_scripts_1_1_models_1_1_dialogue.html#acb31f57f9597cc973a90c303dc761e75',1,'DialogueSystemScripts::Models::Dialogue']]]
+  ['finddialoguesystem',['FindDialogueSystem',['../class_other_1_1_using_examples_1_1_open_dialogue_example.html#a81861254501cc8d43db028461a7666f6',1,'Other::UsingExamples::OpenDialogueExample']]]
 ];

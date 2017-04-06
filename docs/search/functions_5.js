@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['opendialogue',['OpenDialogue',['../class_other_1_1_using_examples_1_1_open_dialogue_example.html#aed9a37d0d5db1a3c2a823c57d6b9e057',1,'Other::UsingExamples::OpenDialogueExample']]],
-  ['opennewdialogue',['OpenNewDialogue',['../class_dialogue_system_scripts_1_1_dialogue_system.html#a282e4535be3b54355f978860c22b7e8b',1,'DialogueSystemScripts::DialogueSystem']]]
+  ['getdialoguesettings',['GetDialogueSettings',['../class_dialogue_system_scripts_1_1_dialogues_database.html#a7e7015bb25c4e70b3b6a830f62383078',1,'DialogueSystemScripts.DialoguesDatabase.GetDialogueSettings()'],['../class_dialogue_system_scripts_1_1_dialogue_system.html#a80786a6ceef1572a79906131dd28cb8b',1,'DialogueSystemScripts.DialogueSystem.GetDialogueSettings()'],['../class_dialogue_system_scripts_1_1_x_m_l___dialogues_database.html#a42b3fe66523982862ebc58eb7a101295',1,'DialogueSystemScripts.XML_DialoguesDatabase.GetDialogueSettings()']]]
 ];

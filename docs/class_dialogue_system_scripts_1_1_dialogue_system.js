@@ -1,7 +1,42 @@
 var class_dialogue_system_scripts_1_1_dialogue_system =
 [
+    [ "DataInputType", "class_dialogue_system_scripts_1_1_dialogue_system.html#a04db97d8a8d2b4c4ae569f3eaf55d0ff", [
+      [ "Direct", "class_dialogue_system_scripts_1_1_dialogue_system.html#a04db97d8a8d2b4c4ae569f3eaf55d0ffafd1dd0c603be8170f9eae0be9f2f6afb", null ],
+      [ "External", "class_dialogue_system_scripts_1_1_dialogue_system.html#a04db97d8a8d2b4c4ae569f3eaf55d0ffab206a1b4ea1097761f78e8876f6da779", null ]
+    ] ],
+    [ "ApplyExternalData", "class_dialogue_system_scripts_1_1_dialogue_system.html#ad775c947ec81e57dc94cd37681000e39", null ],
+    [ "CheckForControllsBlock", "class_dialogue_system_scripts_1_1_dialogue_system.html#ad9e879ea17c3e34d77143250ca207b72", null ],
     [ "CloseAllDialogues", "class_dialogue_system_scripts_1_1_dialogue_system.html#a1d7f2518121b01ac3958686ba364842e", null ],
     [ "CloseCurrentDialogue", "class_dialogue_system_scripts_1_1_dialogue_system.html#ab1da96d1d2a092f1eba4eea65423ce5e", null ],
+    [ "CreateAnswer", "class_dialogue_system_scripts_1_1_dialogue_system.html#a98d511faaaa103145dd60d6bcfca4d89", null ],
+    [ "CreateDialogue", "class_dialogue_system_scripts_1_1_dialogue_system.html#a8ed271e91968be9fddce87ddcb9eadea", null ],
+    [ "DecreaseOffset", "class_dialogue_system_scripts_1_1_dialogue_system.html#abd134540cd128572fca93b0583e958a5", null ],
     [ "GetDialogueSettings", "class_dialogue_system_scripts_1_1_dialogue_system.html#a80786a6ceef1572a79906131dd28cb8b", null ],
-    [ "OpenNewDialogue", "class_dialogue_system_scripts_1_1_dialogue_system.html#a282e4535be3b54355f978860c22b7e8b", null ]
+    [ "IncreaseOffset", "class_dialogue_system_scripts_1_1_dialogue_system.html#a0668305b6612cb924a4cf0485349c65d", null ],
+    [ "InitDatabase", "class_dialogue_system_scripts_1_1_dialogue_system.html#afac478710300e273b81d02d0b7a47f52", null ],
+    [ "InitDefaultRespawnPoint", "class_dialogue_system_scripts_1_1_dialogue_system.html#a405583fa913bfc3835335be2221e4d30", null ],
+    [ "InitDialogueAnswers", "class_dialogue_system_scripts_1_1_dialogue_system.html#ad395424406dd34bdebf235765d9a2257", null ],
+    [ "InitDialoguesSettings", "class_dialogue_system_scripts_1_1_dialogue_system.html#ae632edfeafe8608f7b4ce637926b3bbd", null ],
+    [ "InitMainCanvasGroup", "class_dialogue_system_scripts_1_1_dialogue_system.html#a0f3a44b63cfc6f70e368f4e8b7c41ee5", null ],
+    [ "MoveDialogueByActivity", "class_dialogue_system_scripts_1_1_dialogue_system.html#a022332c52d6c9bceeafe535c8c603610", null ],
+    [ "OnDestroy", "class_dialogue_system_scripts_1_1_dialogue_system.html#a0bca95a00bebc9ddd155f083c83d87c7", null ],
+    [ "OpenNewDialogue", "class_dialogue_system_scripts_1_1_dialogue_system.html#a282e4535be3b54355f978860c22b7e8b", null ],
+    [ "ResetOffset", "class_dialogue_system_scripts_1_1_dialogue_system.html#abce55fabd670f5c7cf0ef773aa1f9c72", null ],
+    [ "RotateDialogueByActivity", "class_dialogue_system_scripts_1_1_dialogue_system.html#a133fc92529798a40ced63f0c93249455", null ],
+    [ "SetCurrentDialogueVisibility", "class_dialogue_system_scripts_1_1_dialogue_system.html#a753bbf9f4a78ed9002fa5dabafb5161b", null ],
+    [ "Start", "class_dialogue_system_scripts_1_1_dialogue_system.html#a05e15981263dbc498e27e09658ce408e", null ],
+    [ "SubEvents", "class_dialogue_system_scripts_1_1_dialogue_system.html#adcff9403df43fcc0f722fde0f4e0d4af", null ],
+    [ "UnsubEvents", "class_dialogue_system_scripts_1_1_dialogue_system.html#a20d5cb41d2f1ed3efdb7b3b480029432", null ],
+    [ "_answerMainPrefab", "class_dialogue_system_scripts_1_1_dialogue_system.html#a7ba6f1aa536bddd10b037752a30cd900", null ],
+    [ "_database", "class_dialogue_system_scripts_1_1_dialogue_system.html#aac8efc92e9595ba70ef05f488e71d935", null ],
+    [ "_dataInputType", "class_dialogue_system_scripts_1_1_dialogue_system.html#a64d568a4ce6e5730db07a945db27d48d", null ],
+    [ "_dialogueAngleCurrentOffset", "class_dialogue_system_scripts_1_1_dialogue_system.html#ad003d57369a2a209ba72bee43c2529d8", null ],
+    [ "_dialogueAngleOffset", "class_dialogue_system_scripts_1_1_dialogue_system.html#afa7c1dc9d48c7ea7527dbf2a9995c8b9", null ],
+    [ "_dialogueMainPrefab", "class_dialogue_system_scripts_1_1_dialogue_system.html#af5cacf4e22cb344ae2c6cadefff319ed", null ],
+    [ "_dialoguePositionCurrentOffset", "class_dialogue_system_scripts_1_1_dialogue_system.html#a1d99a45d718da779f4b58daa7f62a69e", null ],
+    [ "_dialoguePositionOffset", "class_dialogue_system_scripts_1_1_dialogue_system.html#aa3466478338a1d3a431170b3acaa48a0", null ],
+    [ "_dialogues", "class_dialogue_system_scripts_1_1_dialogue_system.html#a51b9a9a324e2dbe5214e767553580c1c", null ],
+    [ "_dialogueSpawnPoint", "class_dialogue_system_scripts_1_1_dialogue_system.html#accbc43d1ad6eea33519c3d1f72b9d630", null ],
+    [ "_dialoguesSettings", "class_dialogue_system_scripts_1_1_dialogue_system.html#a7a4fba11cf67b5dfab5b82c584b802c5", null ],
+    [ "_mainCanvasGroup", "class_dialogue_system_scripts_1_1_dialogue_system.html#a9ff4246698767360f5ac87fc1994dbbf", null ]
 ];

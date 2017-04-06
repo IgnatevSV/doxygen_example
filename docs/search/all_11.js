@@ -9,5 +9,6 @@ var searchData=
   ['xml_5fdialoguesdatabase_2ecs',['XML_DialoguesDatabase.cs',['../_x_m_l___dialogues_database_8cs.html',1,'']]],
   ['xml_5fdialoguesettings',['XML_DialogueSettings',['../class_dialogue_system_scripts_1_1_models_1_1_x_m_l___dialogue_settings.html',1,'DialogueSystemScripts::Models']]],
   ['xml_5fdialoguesettings_2ecs',['XML_DialogueSettings.cs',['../_x_m_l___dialogue_settings_8cs.html',1,'']]],
+  ['xml_5fmodels',['XML_Models',['../group___x_m_l___models.html',1,'']]],
   ['xml_20dialogues_20database',['XML Dialogues Database',['../xml_dialogues_database.html',1,'']]]
 ];

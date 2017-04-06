@@ -10,7 +10,8 @@ var indexSectionsWithContent =
   7: "de",
   8: "acdhimt",
   9: "o",
-  10: "adsx"
+  10: "dx",
+  11: "adsx"
 };
 
 var indexSectionNames =
@@ -25,7 +26,8 @@ var indexSectionNames =
   7: "enumvalues",
   8: "properties",
   9: "events",
-  10: "pages"
+  10: "groups",
+  11: "pages"
 };
 
 var indexSectionLabels =
@@ -40,6 +42,7 @@ var indexSectionLabels =
   7: "Enumerator",
   8: "Properties",
   9: "Events",
-  10: "Pages"
+  10: "Modules",
+  11: "Pages"
 };
 

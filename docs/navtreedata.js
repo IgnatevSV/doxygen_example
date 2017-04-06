@@ -6,6 +6,7 @@ var NAVTREE =
     [ "Dialogue Window Prefab", "dialogue_window_prefab.html", null ],
     [ "Scenes", "scenes.html", null ],
     [ "XML Dialogues Database", "xml_dialogues_database.html", null ],
+    [ "Modules", "modules.html", "modules" ],
     [ "Packages", null, [
       [ "Packages", "namespaces.html", "namespaces" ]
     ] ],

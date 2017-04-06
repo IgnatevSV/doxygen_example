@@ -160,6 +160,10 @@ Private Attributes</h2></td></tr>
 
 <p class="definition">Definition at line <a class="el" href="_answer_8cs_source.html#l00031">31</a> of file <a class="el" href="_answer_8cs_source.html">Answer.cs</a>.</p>
 
+<p class="reference">References <a class="el" href="_answer_settings_8cs_source.html#l00055">DialogueSystemScripts.Models.AnswerSettings.CustomEvents</a>, <a class="el" href="_answer_settings_8cs_source.html#l00031">DialogueSystemScripts.Models.AnswerSettings.IsActive</a>, and <a class="el" href="_answer_settings_8cs_source.html#l00019">DialogueSystemScripts.Models.AnswerSettings.Text</a>.</p>
+<div class="fragment"><div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;        {</div><div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;            <a class="code" href="class_dialogue_system_scripts_1_1_models_1_1_answer.html#a8fa3464d41b48b5b79f5fa7a972ff821">InitButton</a>(settings.IsActive, settings.CustomEvents);</div><div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;            <a class="code" href="class_dialogue_system_scripts_1_1_models_1_1_answer.html#a078e0fcc9a27d4b64e0c6079c5a8011a">InitAnswerText</a>(settings.Text);</div><div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;        }</div><div class="ttc" id="class_dialogue_system_scripts_1_1_models_1_1_answer_html_a078e0fcc9a27d4b64e0c6079c5a8011a"><div class="ttname"><a href="class_dialogue_system_scripts_1_1_models_1_1_answer.html#a078e0fcc9a27d4b64e0c6079c5a8011a">DialogueSystemScripts.Models.Answer.InitAnswerText</a></div><div class="ttdeci">void InitAnswerText(string text)</div><div class="ttdef"><b>Definition:</b> <a href="_answer_8cs_source.html#l00047">Answer.cs:47</a></div></div>
+<div class="ttc" id="class_dialogue_system_scripts_1_1_models_1_1_answer_html_a8fa3464d41b48b5b79f5fa7a972ff821"><div class="ttname"><a href="class_dialogue_system_scripts_1_1_models_1_1_answer.html#a8fa3464d41b48b5b79f5fa7a972ff821">DialogueSystemScripts.Models.Answer.InitButton</a></div><div class="ttdeci">void InitButton(bool isActive, Button.ButtonClickedEvent buttonEvents)</div><div class="ttdef"><b>Definition:</b> <a href="_answer_8cs_source.html#l00037">Answer.cs:37</a></div></div>
+</div><!-- fragment -->
 </div>
 </div>
 <a id="a078e0fcc9a27d4b64e0c6079c5a8011a"></a>
@@ -187,7 +191,8 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p class="definition">Definition at line <a class="el" href="_answer_8cs_source.html#l00047">47</a> of file <a class="el" href="_answer_8cs_source.html">Answer.cs</a>.</p>
-
+<div class="fragment"><div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;        {</div><div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;            <a class="code" href="class_dialogue_system_scripts_1_1_models_1_1_answer.html#ab1afe1820939581cbc6ea7c8893147e3">_answerText</a>.text = text;</div><div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;        }</div><div class="ttc" id="class_dialogue_system_scripts_1_1_models_1_1_answer_html_ab1afe1820939581cbc6ea7c8893147e3"><div class="ttname"><a href="class_dialogue_system_scripts_1_1_models_1_1_answer.html#ab1afe1820939581cbc6ea7c8893147e3">DialogueSystemScripts.Models.Answer._answerText</a></div><div class="ttdeci">Text _answerText</div><div class="ttdef"><b>Definition:</b> <a href="_answer_8cs_source.html#l00015">Answer.cs:15</a></div></div>
+</div><!-- fragment -->
 </div>
 </div>
 <a id="a8fa3464d41b48b5b79f5fa7a972ff821"></a>
@@ -225,7 +230,8 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p class="definition">Definition at line <a class="el" href="_answer_8cs_source.html#l00037">37</a> of file <a class="el" href="_answer_8cs_source.html">Answer.cs</a>.</p>
-
+<div class="fragment"><div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;        {</div><div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;            <a class="code" href="class_dialogue_system_scripts_1_1_models_1_1_answer.html#a271c74919f37730e5aab93af7373e1d6">_answerButton</a>.interactable = isActive;</div><div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;</div><div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;            <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i = 0; i &lt; buttonEvents.GetPersistentEventCount(); i++)</div><div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;            {</div><div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;                <a class="code" href="class_dialogue_system_scripts_1_1_models_1_1_answer.html#a271c74919f37730e5aab93af7373e1d6">_answerButton</a>.onClick = buttonEvents;</div><div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;            }</div><div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;        }</div><div class="ttc" id="class_dialogue_system_scripts_1_1_models_1_1_answer_html_a271c74919f37730e5aab93af7373e1d6"><div class="ttname"><a href="class_dialogue_system_scripts_1_1_models_1_1_answer.html#a271c74919f37730e5aab93af7373e1d6">DialogueSystemScripts.Models.Answer._answerButton</a></div><div class="ttdeci">Button _answerButton</div><div class="ttdef"><b>Definition:</b> <a href="_answer_8cs_source.html#l00012">Answer.cs:12</a></div></div>
+</div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
@@ -314,7 +320,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespace_dialogue_system_scripts.html">DialogueSystemScripts</a></li><li class="navelem"><a class="el" href="namespace_dialogue_system_scripts_1_1_models.html">Models</a></li><li class="navelem"><a class="el" href="class_dialogue_system_scripts_1_1_models_1_1_answer.html">Answer</a></li>
-    <li class="footer">Generated by
+    <li class="footer">Generated on Fri Apr 7 2017 01:04:19 for Doxygen research-training project by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

@@ -1,0 +1,4 @@
+<map id="DialogueSystemScripts.XML_DialoguesDatabase.TranslateItems" name="DialogueSystemScripts.XML_DialoguesDatabase.TranslateItems">
+<area shape="rect" id="node2" href="$class_dialogue_system_scripts_1_1_x_m_l___dialogues_database.html#a11ab518a055871131f5320e26641d855" title="DialogueSystemScripts.XML\l_DialoguesDatabase.Init" alt="" coords="284,5,471,47"/>
+<area shape="rect" id="node3" href="$class_dialogue_system_scripts_1_1_x_m_l___dialogues_database.html#a5e6cd9bf862e92107c3194716c4ca344" title="DialogueSystemScripts.XML\l_DialoguesDatabase.Awake" alt="" coords="519,5,705,47"/>
+</map>

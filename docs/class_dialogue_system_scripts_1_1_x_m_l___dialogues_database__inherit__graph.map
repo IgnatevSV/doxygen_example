@@ -1,0 +1,4 @@
+<map id="DialogueSystemScripts.XML_DialoguesDatabase" name="DialogueSystemScripts.XML_DialoguesDatabase">
+<area shape="rect" id="node2" href="$class_dialogue_system_scripts_1_1_dialogues_database.html" title="Абстрактный класс для работы с базой данных диалогов. " alt="" coords="18,131,179,208"/>
+<area shape="rect" id="node3" href="$class_mono_behaviour.html" title="{MonoBehaviour\n||}" alt="" coords="43,5,154,83"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="DialogueSystemScripts.DialogueSystem.CloseAllDialogues" name="DialogueSystemScripts.DialogueSystem.CloseAllDialogues">
+<area shape="rect" id="node2" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#ab1da96d1d2a092f1eba4eea65423ce5e" title="Метод, закрывающий текущее активное окно диалога. " alt="" coords="265,103,477,144"/>
+<area shape="rect" id="node3" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#a753bbf9f4a78ed9002fa5dabafb5161b" title="DialogueSystemScripts.Dialogue\lSystem.SetCurrentDialogueVisibility" alt="" coords="525,37,757,79"/>
+<area shape="rect" id="node6" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#ad9e879ea17c3e34d77143250ca207b72" title="DialogueSystemScripts.Dialogue\lSystem.CheckForControllsBlock" alt="" coords="535,103,747,144"/>
+<area shape="rect" id="node7" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#abd134540cd128572fca93b0583e958a5" title="DialogueSystemScripts.Dialogue\lSystem.DecreaseOffset" alt="" coords="535,168,747,209"/>
+<area shape="rect" id="node4" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#a022332c52d6c9bceeafe535c8c603610" title="DialogueSystemScripts.Dialogue\lSystem.MoveDialogueByActivity" alt="" coords="808,5,1020,47"/>
+<area shape="rect" id="node5" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#a133fc92529798a40ced63f0c93249455" title="DialogueSystemScripts.Dialogue\lSystem.RotateDialogueByActivity" alt="" coords="805,71,1023,112"/>
+</map>

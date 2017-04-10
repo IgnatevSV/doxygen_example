@@ -1,0 +1,5 @@
+<map id="DialogueSystemScripts.DialoguesDatabase.GetDialogueSettings" name="DialogueSystemScripts.DialoguesDatabase.GetDialogueSettings">
+<area shape="rect" id="node2" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#ad775c947ec81e57dc94cd37681000e39" title="DialogueSystemScripts.Dialogue\lSystem.ApplyExternalData" alt="" coords="272,5,484,47"/>
+<area shape="rect" id="node3" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#ae632edfeafe8608f7b4ce637926b3bbd" title="DialogueSystemScripts.Dialogue\lSystem.InitDialoguesSettings" alt="" coords="532,5,744,47"/>
+<area shape="rect" id="node4" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#a05e15981263dbc498e27e09658ce408e" title="DialogueSystemScripts.Dialogue\lSystem.Start" alt="" coords="792,5,1004,47"/>
+</map>

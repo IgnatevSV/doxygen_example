@@ -1,0 +1,10 @@
+<map id="DialogueSystemScripts.DialogueSystem.SetCurrentDialogueVisibility" name="DialogueSystemScripts.DialogueSystem.SetCurrentDialogueVisibility">
+<area shape="rect" id="node2" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#ab1da96d1d2a092f1eba4eea65423ce5e" title="Метод, закрывающий текущее активное окно диалога. " alt="" coords="285,88,497,129"/>
+<area shape="rect" id="node8" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#a282e4535be3b54355f978860c22b7e8b" title="Метод, открывающий новое окно диалога. " alt="" coords="285,169,497,211"/>
+<area shape="rect" id="node3" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#a1d7f2518121b01ac3958686ba364842e" title="Метод, закрывающий все текущие открытые окна диалогов. " alt="" coords="545,5,757,47"/>
+<area shape="rect" id="node4" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#adcff9403df43fcc0f722fde0f4e0d4af" title="DialogueSystemScripts.Dialogue\lSystem.SubEvents" alt="" coords="545,71,757,112"/>
+<area shape="rect" id="node6" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#a20d5cb41d2f1ed3efdb7b3b480029432" title="DialogueSystemScripts.Dialogue\lSystem.UnsubEvents" alt="" coords="545,136,757,177"/>
+<area shape="rect" id="node5" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#a05e15981263dbc498e27e09658ce408e" title="DialogueSystemScripts.Dialogue\lSystem.Start" alt="" coords="805,71,1017,112"/>
+<area shape="rect" id="node7" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#a0bca95a00bebc9ddd155f083c83d87c7" title="DialogueSystemScripts.Dialogue\lSystem.OnDestroy" alt="" coords="805,136,1017,177"/>
+<area shape="rect" id="node9" href="$class_other_1_1_using_examples_1_1_open_dialogue_example.html#aed9a37d0d5db1a3c2a823c57d6b9e057" title="Метод, открывающий новый диалог в DialogueSystem. " alt="" coords="547,201,755,243"/>
+</map>

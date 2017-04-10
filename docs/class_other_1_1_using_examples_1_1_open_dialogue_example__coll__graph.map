@@ -1,0 +1,7 @@
+<map id="Other.UsingExamples.OpenDialogueExample" name="Other.UsingExamples.OpenDialogueExample">
+<area shape="rect" id="node2" href="$class_mono_behaviour.html" title="{MonoBehaviour\n||}" alt="" coords="342,13,452,90"/>
+<area shape="rect" id="node4" href="$class_dialogue_system_scripts_1_1_dialogue_system.html" title="Класс, управляющий диалоговыми окнами. " alt="" coords="648,476,860,773"/>
+<area shape="rect" id="node5" href="$class_dialogue_system_scripts_1_1_dialogues_database.html" title="Абстрактный класс для работы с базой данных диалогов. " alt="" coords="72,248,290,340"/>
+<area shape="rect" id="node8" href="$class_dialogue_system_scripts_1_1_models_1_1_dialogue.html" title="Класс диалогового окна. " alt="" coords="909,175,1117,413"/>
+<area shape="rect" id="node19" href="$class_dialogue_system_scripts_1_1_models_1_1_answer.html" title="Класс ответа в диалоговом окне. " alt="" coords="650,233,858,355"/>
+</map>

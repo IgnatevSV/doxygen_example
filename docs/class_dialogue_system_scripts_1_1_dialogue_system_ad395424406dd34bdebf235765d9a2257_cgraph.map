@@ -1,0 +1,4 @@
+<map id="DialogueSystemScripts.DialogueSystem.InitDialogueAnswers" name="DialogueSystemScripts.DialogueSystem.InitDialogueAnswers">
+<area shape="rect" id="node2" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#a98d511faaaa103145dd60d6bcfca4d89" title="DialogueSystemScripts.Dialogue\lSystem.CreateAnswer" alt="" coords="265,5,477,47"/>
+<area shape="rect" id="node3" href="$class_dialogue_system_scripts_1_1_models_1_1_answer.html#a5259506d095fa26ad679e549f96ac0ab" title="Инициализация ответа, применение заданных настроек. " alt="" coords="525,5,733,47"/>
+</map>

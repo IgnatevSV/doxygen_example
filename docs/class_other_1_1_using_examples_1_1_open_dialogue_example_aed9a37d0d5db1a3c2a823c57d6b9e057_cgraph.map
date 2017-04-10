@@ -1,0 +1,13 @@
+<map id="Other.UsingExamples.OpenDialogueExample.OpenDialogue" name="Other.UsingExamples.OpenDialogueExample.OpenDialogue">
+<area shape="rect" id="node2" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#a282e4535be3b54355f978860c22b7e8b" title="Метод, открывающий новое окно диалога. " alt="" coords="261,136,473,177"/>
+<area shape="rect" id="node3" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#ad9e879ea17c3e34d77143250ca207b72" title="DialogueSystemScripts.Dialogue\lSystem.CheckForControllsBlock" alt="" coords="531,5,743,47"/>
+<area shape="rect" id="node4" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#a8ed271e91968be9fddce87ddcb9eadea" title="DialogueSystemScripts.Dialogue\lSystem.CreateDialogue" alt="" coords="531,71,743,112"/>
+<area shape="rect" id="node6" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#a0668305b6612cb924a4cf0485349c65d" title="DialogueSystemScripts.Dialogue\lSystem.IncreaseOffset" alt="" coords="531,136,743,177"/>
+<area shape="rect" id="node7" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#ad395424406dd34bdebf235765d9a2257" title="DialogueSystemScripts.Dialogue\lSystem.InitDialogueAnswers" alt="" coords="531,201,743,243"/>
+<area shape="rect" id="node10" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#a753bbf9f4a78ed9002fa5dabafb5161b" title="DialogueSystemScripts.Dialogue\lSystem.SetCurrentDialogueVisibility" alt="" coords="521,267,753,308"/>
+<area shape="rect" id="node5" href="$class_dialogue_system_scripts_1_1_models_1_1_dialogue.html#a8b8077d9c68e517448541ddda832252f" title="Инициализация окна диалога, применение заданных настроек. " alt="" coords="806,71,1014,112"/>
+<area shape="rect" id="node8" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#a98d511faaaa103145dd60d6bcfca4d89" title="DialogueSystemScripts.Dialogue\lSystem.CreateAnswer" alt="" coords="804,201,1016,243"/>
+<area shape="rect" id="node9" href="$class_dialogue_system_scripts_1_1_models_1_1_answer.html#a5259506d095fa26ad679e549f96ac0ab" title="Инициализация ответа, применение заданных настроек. " alt="" coords="1067,201,1275,243"/>
+<area shape="rect" id="node11" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#a022332c52d6c9bceeafe535c8c603610" title="DialogueSystemScripts.Dialogue\lSystem.MoveDialogueByActivity" alt="" coords="804,267,1016,308"/>
+<area shape="rect" id="node12" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#a133fc92529798a40ced63f0c93249455" title="DialogueSystemScripts.Dialogue\lSystem.RotateDialogueByActivity" alt="" coords="801,332,1019,373"/>
+</map>

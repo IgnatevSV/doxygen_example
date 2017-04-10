@@ -1,0 +1,6 @@
+<map id="DialogueSystemScripts.Models.Answer.InitAnswer" name="DialogueSystemScripts.Models.Answer.InitAnswer">
+<area shape="rect" id="node2" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#a98d511faaaa103145dd60d6bcfca4d89" title="DialogueSystemScripts.Dialogue\lSystem.CreateAnswer" alt="" coords="261,5,473,47"/>
+<area shape="rect" id="node3" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#ad395424406dd34bdebf235765d9a2257" title="DialogueSystemScripts.Dialogue\lSystem.InitDialogueAnswers" alt="" coords="521,5,733,47"/>
+<area shape="rect" id="node4" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#a282e4535be3b54355f978860c22b7e8b" title="Метод, открывающий новое окно диалога. " alt="" coords="781,5,993,47"/>
+<area shape="rect" id="node5" href="$class_other_1_1_using_examples_1_1_open_dialogue_example.html#aed9a37d0d5db1a3c2a823c57d6b9e057" title="Метод, открывающий новый диалог в DialogueSystem. " alt="" coords="1041,5,1249,47"/>
+</map>

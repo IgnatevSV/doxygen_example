@@ -1,9 +1,0 @@
-digraph "DialogueSystemScripts.DialogueSystem.OpenNewDialogue"
-{
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  rankdir="LR";
-  Node16 [label="DialogueSystemScripts.Dialogue\lSystem.OpenNewDialogue",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
-  Node16 -> Node17 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node17 [label="Other.UsingExamples.Open\lDialogueExample.OpenDialogue",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_other_1_1_using_examples_1_1_open_dialogue_example.html#aed9a37d0d5db1a3c2a823c57d6b9e057",tooltip="Метод, открывающий новый диалог в DialogueSystem. "];
-}

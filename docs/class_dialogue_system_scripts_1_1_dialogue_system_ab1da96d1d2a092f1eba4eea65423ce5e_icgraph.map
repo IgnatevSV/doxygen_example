@@ -1,0 +1,7 @@
+<map id="DialogueSystemScripts.DialogueSystem.CloseCurrentDialogue" name="DialogueSystemScripts.DialogueSystem.CloseCurrentDialogue">
+<area shape="rect" id="node2" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#a1d7f2518121b01ac3958686ba364842e" title="Метод, закрывающий все текущие открытые окна диалогов. " alt="" coords="265,5,477,47"/>
+<area shape="rect" id="node3" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#adcff9403df43fcc0f722fde0f4e0d4af" title="DialogueSystemScripts.Dialogue\lSystem.SubEvents" alt="" coords="265,71,477,112"/>
+<area shape="rect" id="node5" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#a20d5cb41d2f1ed3efdb7b3b480029432" title="DialogueSystemScripts.Dialogue\lSystem.UnsubEvents" alt="" coords="265,136,477,177"/>
+<area shape="rect" id="node4" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#a05e15981263dbc498e27e09658ce408e" title="DialogueSystemScripts.Dialogue\lSystem.Start" alt="" coords="525,71,737,112"/>
+<area shape="rect" id="node6" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#a0bca95a00bebc9ddd155f083c83d87c7" title="DialogueSystemScripts.Dialogue\lSystem.OnDestroy" alt="" coords="525,136,737,177"/>
+</map>

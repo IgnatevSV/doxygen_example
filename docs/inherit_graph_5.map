@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_mono_behaviour.html" title="MonoBehaviour" alt="" coords="5,238,116,265"/>
+<area shape="rect" id="node2" href="$class_dialogue_system_scripts_1_1_dialogues_database.html" title="Абстрактный класс для работы с базой данных диалогов. " alt="" coords="164,5,383,47"/>
+<area shape="rect" id="node4" href="$class_dialogue_system_scripts_1_1_dialogue_system.html" title="Класс, управляющий диалоговыми окнами. " alt="" coords="167,71,379,112"/>
+<area shape="rect" id="node5" href="$class_dialogue_system_scripts_1_1_models_1_1_answer.html" title="Класс ответа в диалоговом окне. " alt="" coords="169,136,377,177"/>
+<area shape="rect" id="node6" href="$class_dialogue_system_scripts_1_1_models_1_1_dialogue.html" title="Класс диалогового окна. " alt="" coords="169,201,377,243"/>
+<area shape="rect" id="node7" href="$class_other_1_1_custom_scene_manager.html" title="Класс для управления сценами. " alt="" coords="178,267,369,294"/>
+<area shape="rect" id="node8" href="$class_other_1_1_editor_1_1_default_asset_bundles_loader.html" title="Класс для выгрузки ассетов из AssetBundles. " alt="" coords="188,319,359,360"/>
+<area shape="rect" id="node9" href="$class_other_1_1_using_examples_1_1_open_dialogue_example.html" title="Класс&#45;пример открытия диалога в DialogueSystem. " alt="" coords="181,384,365,425"/>
+<area shape="rect" id="node10" href="$class_other_1_1_using_examples_1_1_unlock_answer_example.html" title="Класс&#45;пример разблокировки закрытых(неактивных) вариантов ответа в системе диалогов. " alt="" coords="177,449,370,491"/>
+<area shape="rect" id="node3" href="$class_dialogue_system_scripts_1_1_x_m_l___dialogues_database.html" title="Класс для работы с базой данных диалогов на XML. " alt="" coords="431,5,617,47"/>
+</map>

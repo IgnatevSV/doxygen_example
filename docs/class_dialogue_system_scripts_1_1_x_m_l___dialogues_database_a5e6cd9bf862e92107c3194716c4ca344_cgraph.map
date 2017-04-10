@@ -1,0 +1,5 @@
+<map id="DialogueSystemScripts.XML_DialoguesDatabase.Awake" name="DialogueSystemScripts.XML_DialoguesDatabase.Awake">
+<area shape="rect" id="node2" href="$class_dialogue_system_scripts_1_1_x_m_l___dialogues_database.html#a11ab518a055871131f5320e26641d855" title="DialogueSystemScripts.XML\l_DialoguesDatabase.Init" alt="" coords="240,5,427,47"/>
+<area shape="rect" id="node3" href="$class_dialogue_system_scripts_1_1_x_m_l___dialogues_database.html#a9785e0297fc087fcb539fc7a714ab1d2" title="DialogueSystemScripts.XML\l_DialoguesDatabase.TranslateItems" alt="" coords="475,5,705,47"/>
+<area shape="rect" id="node4" href="$class_dialogue_system_scripts_1_1_x_m_l___dialogues_database.html#ac9f1e739484c671923ff5144bad8f1da" title="DialogueSystemScripts.XML\l_DialoguesDatabase.TranslateAnswers" alt="" coords="753,5,1001,47"/>
+</map>

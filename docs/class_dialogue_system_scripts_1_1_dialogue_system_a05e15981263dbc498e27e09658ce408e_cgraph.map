@@ -1,0 +1,15 @@
+<map id="DialogueSystemScripts.DialogueSystem.Start" name="DialogueSystemScripts.DialogueSystem.Start">
+<area shape="rect" id="node2" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#afac478710300e273b81d02d0b7a47f52" title="DialogueSystemScripts.Dialogue\lSystem.InitDatabase" alt="" coords="265,5,477,47"/>
+<area shape="rect" id="node3" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#a405583fa913bfc3835335be2221e4d30" title="DialogueSystemScripts.Dialogue\lSystem.InitDefaultRespawnPoint" alt="" coords="265,71,477,112"/>
+<area shape="rect" id="node4" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#ae632edfeafe8608f7b4ce637926b3bbd" title="DialogueSystemScripts.Dialogue\lSystem.InitDialoguesSettings" alt="" coords="265,136,477,177"/>
+<area shape="rect" id="node7" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#a0f3a44b63cfc6f70e368f4e8b7c41ee5" title="DialogueSystemScripts.Dialogue\lSystem.InitMainCanvasGroup" alt="" coords="265,201,477,243"/>
+<area shape="rect" id="node8" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#adcff9403df43fcc0f722fde0f4e0d4af" title="DialogueSystemScripts.Dialogue\lSystem.SubEvents" alt="" coords="265,267,477,308"/>
+<area shape="rect" id="node5" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#ad775c947ec81e57dc94cd37681000e39" title="DialogueSystemScripts.Dialogue\lSystem.ApplyExternalData" alt="" coords="525,136,737,177"/>
+<area shape="rect" id="node6" href="$class_dialogue_system_scripts_1_1_dialogues_database.html#a7e7015bb25c4e70b3b6a830f62383078" title="Абстрактный метод для получения настроек диалогового окна из базы данных по идентификатору диалога..." alt="" coords="792,136,1011,177"/>
+<area shape="rect" id="node9" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#ab1da96d1d2a092f1eba4eea65423ce5e" title="Метод, закрывающий текущее активное окно диалога. " alt="" coords="525,267,737,308"/>
+<area shape="rect" id="node10" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#ad9e879ea17c3e34d77143250ca207b72" title="DialogueSystemScripts.Dialogue\lSystem.CheckForControllsBlock" alt="" coords="795,201,1007,243"/>
+<area shape="rect" id="node11" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#abd134540cd128572fca93b0583e958a5" title="DialogueSystemScripts.Dialogue\lSystem.DecreaseOffset" alt="" coords="795,267,1007,308"/>
+<area shape="rect" id="node12" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#a753bbf9f4a78ed9002fa5dabafb5161b" title="DialogueSystemScripts.Dialogue\lSystem.SetCurrentDialogueVisibility" alt="" coords="785,332,1017,373"/>
+<area shape="rect" id="node13" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#a022332c52d6c9bceeafe535c8c603610" title="DialogueSystemScripts.Dialogue\lSystem.MoveDialogueByActivity" alt="" coords="1068,299,1280,340"/>
+<area shape="rect" id="node14" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#a133fc92529798a40ced63f0c93249455" title="DialogueSystemScripts.Dialogue\lSystem.RotateDialogueByActivity" alt="" coords="1065,364,1283,405"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="DialogueSystemScripts.DialogueSystem.OpenNewDialogue" name="DialogueSystemScripts.DialogueSystem.OpenNewDialogue">
+<area shape="rect" id="node2" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#ad9e879ea17c3e34d77143250ca207b72" title="DialogueSystemScripts.Dialogue\lSystem.CheckForControllsBlock" alt="" coords="275,5,487,47"/>
+<area shape="rect" id="node3" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#a8ed271e91968be9fddce87ddcb9eadea" title="DialogueSystemScripts.Dialogue\lSystem.CreateDialogue" alt="" coords="275,71,487,112"/>
+<area shape="rect" id="node5" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#a0668305b6612cb924a4cf0485349c65d" title="DialogueSystemScripts.Dialogue\lSystem.IncreaseOffset" alt="" coords="275,136,487,177"/>
+<area shape="rect" id="node6" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#ad395424406dd34bdebf235765d9a2257" title="DialogueSystemScripts.Dialogue\lSystem.InitDialogueAnswers" alt="" coords="275,201,487,243"/>
+<area shape="rect" id="node9" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#a753bbf9f4a78ed9002fa5dabafb5161b" title="DialogueSystemScripts.Dialogue\lSystem.SetCurrentDialogueVisibility" alt="" coords="265,267,497,308"/>
+<area shape="rect" id="node4" href="$class_dialogue_system_scripts_1_1_models_1_1_dialogue.html#a8b8077d9c68e517448541ddda832252f" title="Инициализация окна диалога, применение заданных настроек. " alt="" coords="550,71,758,112"/>
+<area shape="rect" id="node7" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#a98d511faaaa103145dd60d6bcfca4d89" title="DialogueSystemScripts.Dialogue\lSystem.CreateAnswer" alt="" coords="548,201,760,243"/>
+<area shape="rect" id="node8" href="$class_dialogue_system_scripts_1_1_models_1_1_answer.html#a5259506d095fa26ad679e549f96ac0ab" title="Инициализация ответа, применение заданных настроек. " alt="" coords="811,201,1019,243"/>
+<area shape="rect" id="node10" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#a022332c52d6c9bceeafe535c8c603610" title="DialogueSystemScripts.Dialogue\lSystem.MoveDialogueByActivity" alt="" coords="548,267,760,308"/>
+<area shape="rect" id="node11" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#a133fc92529798a40ced63f0c93249455" title="DialogueSystemScripts.Dialogue\lSystem.RotateDialogueByActivity" alt="" coords="545,332,763,373"/>
+</map>

@@ -3,7 +3,7 @@ var hierarchy =
     [ "DialogueSystemScripts.Models.AnswerSettings", "class_dialogue_system_scripts_1_1_models_1_1_answer_settings.html", null ],
     [ "Other.Editor.DefaultAssetBundlesCreator", "class_other_1_1_editor_1_1_default_asset_bundles_creator.html", null ],
     [ "DialogueSystemScripts.Models.DialogueSettings", "class_dialogue_system_scripts_1_1_models_1_1_dialogue_settings.html", null ],
-    [ "MonoBehaviour", null, [
+    [ "MonoBehaviour", "class_mono_behaviour.html", [
       [ "DialogueSystemScripts.DialoguesDatabase", "class_dialogue_system_scripts_1_1_dialogues_database.html", [
         [ "DialogueSystemScripts.XML_DialoguesDatabase", "class_dialogue_system_scripts_1_1_x_m_l___dialogues_database.html", null ]
       ] ],

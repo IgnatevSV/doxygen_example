@@ -1,0 +1,4 @@
+<map id="DialogueSystemScripts.DialogueSystem.InitDialoguesSettings" name="DialogueSystemScripts.DialogueSystem.InitDialoguesSettings">
+<area shape="rect" id="node2" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#ad775c947ec81e57dc94cd37681000e39" title="DialogueSystemScripts.Dialogue\lSystem.ApplyExternalData" alt="" coords="265,5,477,47"/>
+<area shape="rect" id="node3" href="$class_dialogue_system_scripts_1_1_dialogues_database.html#a7e7015bb25c4e70b3b6a830f62383078" title="Абстрактный метод для получения настроек диалогового окна из базы данных по идентификатору диалога..." alt="" coords="525,5,744,47"/>
+</map>

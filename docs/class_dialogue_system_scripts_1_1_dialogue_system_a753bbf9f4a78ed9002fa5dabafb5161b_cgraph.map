@@ -1,0 +1,4 @@
+<map id="DialogueSystemScripts.DialogueSystem.SetCurrentDialogueVisibility" name="DialogueSystemScripts.DialogueSystem.SetCurrentDialogueVisibility">
+<area shape="rect" id="node2" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#a022332c52d6c9bceeafe535c8c603610" title="DialogueSystemScripts.Dialogue\lSystem.MoveDialogueByActivity" alt="" coords="288,5,500,47"/>
+<area shape="rect" id="node3" href="$class_dialogue_system_scripts_1_1_dialogue_system.html#a133fc92529798a40ced63f0c93249455" title="DialogueSystemScripts.Dialogue\lSystem.RotateDialogueByActivity" alt="" coords="285,71,503,112"/>
+</map>
